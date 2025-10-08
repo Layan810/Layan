@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://chatgpt.com/s/m_68e65cb489fc81918d932ba7e912c671" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/layanAlqahtani/layanAlqahtani/blob/main/images/hello_layan.gif?raw=true" alt="Hello I'm Layan" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/> <br> 
 
 ### ✨ Hi there, I’m **Layan Alqahtani**  
 🎓 Computer Science student — AI track  
