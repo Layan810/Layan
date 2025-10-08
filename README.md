@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/layanAlqahtani/layanAlqahtani/blob/main/images/hello_layan.gif?raw=true" alt="Hello I'm Layan" width="60%"/> <br>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2V0NmgwdmNlamF0Zzd0dHZiNDB1YXJ0ZnN4c3Fua2F1dXAxMjZkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/> <br> 
 
 ### ✨ Hi there, I’m **Layan Alqahtani**  
